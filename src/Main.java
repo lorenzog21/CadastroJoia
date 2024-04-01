@@ -28,7 +28,7 @@ public class Main {
                     joia.especificacao = String.valueOf(especificacao);
                     break;
                 case 2:
-                    System.out.println("Código: " + joia.codigo + "Valor: R$" + joia.valor + "Especificação: " + joia.especificacao);
+                    System.out.println("Código: " + joia.codigo + "\nValor: R$" + joia.valor + "\nEspecificação: " + joia.especificacao);
                     break;
                 case 0:
                     System.out.println("Finalizando o programa");
